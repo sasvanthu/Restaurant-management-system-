@@ -1,0 +1,5 @@
+{
+  "name": "FoodFlow",
+  "description": "A modern food delivery application frontend featuring restaurant discovery, menu ordering, checkout, and order tracking.",
+  "requestFramePermissions": []
+}
